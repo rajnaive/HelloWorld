@@ -1,2 +1,3 @@
 This is a Remote Repo File and ready for Git Pull to Local Repo
 Check Git Pull again
+Check Git Fetch
